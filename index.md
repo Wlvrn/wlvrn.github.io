@@ -1,7 +1,3 @@
-theme: jekyll-theme-slate
-title: Welcome to Sixty Drops homepage!
-description: Feel free to bookmark this to keep an eye on my project updates
-
 ## Welcome to Sixty Drops
 
 A premium brand of e-liquid, est. 2017
